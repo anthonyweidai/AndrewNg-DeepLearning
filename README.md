@@ -1,9 +1,13 @@
 ﻿# Andrew_Ng_DL_Assignment
+Deeplearning.ai, [Deep learning specialization](https://www.coursera.org/specializations/deep-learning), Coursera
 
-网易云课堂的深度学习工程师微专业
+## Status
 
+Lesson1, 2020
 
-更新到第四课第4周
+Lesson2, 17/06/2021
+
+## Content
 
 `Lesson1 神经网络和深度学习`
   <br>　week1 没编程作业
