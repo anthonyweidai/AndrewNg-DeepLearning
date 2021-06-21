@@ -8,12 +8,17 @@
     
 2. Which of these statements about mini-batch gradient descent do you agree with?
 
-    - [ ] You should implement mini-batch gradient descent without an explicit for-loop over different mini-batches, so that the algorithm processes all mini-batches at the same time (vectorization).
+    - You should implement mini-batch gradient descent without an explicit for-loop over different mini-batches, so that the algorithm processes all mini-batches at the same time (vectorization).
+
     - [ ] Training one epoch (one pass through the training set) using mini-batch gradient descent is faster than training one epoch using batch gradient descent.
     - [x] One iteration of mini-batch gradient descent (computing on a single mini-batch) is faster than one iteration of batch gradient descent.
-    
+
     Note: Vectorization is not for computing several mini-batches in the same time.
-    
+
+    **An epoch is defined as the number of times an algorithm visits the data set .In other words, epoch is one backward and one forward pass for all the training.**
+
+    **Iteration is defined as the number of times a batch of data has passed through the algorithm. In other words, it is the number of passes, one pass consists of one forward and one backward pass.**
+
 3. Why is the best mini-batch size usually not 1 and not m, but instead something in-between?
 
     - If the mini-batch size is 1, you lose the benefits of vectorization across examples in the mini-batch.

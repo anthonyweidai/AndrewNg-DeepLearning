@@ -26,13 +26,16 @@
 4. You are working on an automated check-out kiosk for a supermarket, and are building a classifier for apples, bananas and oranges. Suppose your classifier obtains a training set error of 0.5%, and a dev set error of 7%. Which of the following are promising things to try to improve your classifier? (Check all that apply.)
 
     - Increase the regularization parameter lambda
-    - Get more training data
+
+    \- [x] **Get more training data**
 
     Note: Check [here](https://user-images.githubusercontent.com/14886380/29240263-f7c517ca-7f93-11e7-8549-58856e0ed12f.png).
-    
+
  5. What is weight decay?
 
     - A regularization technique (such as L2 regularization) that results in gradient descent shrinking the weights on every iteration.
+    
+    \- []  The process of gradually decreasing the **learning rate** during training. 
     
  6. What happens when you increase the regularization hyperparameter lambda?
 
@@ -40,7 +43,7 @@
 
 7. With the inverted dropout technique, at test time:
 
-    - You do not apply dropout (do not randomly eliminate units) and do not keep the 1/keep_prob factor in the calculations used in training
+    - You do not apply dropout (do not randomly eliminate units) and do not keep the **1/keep_prob** factor in the calculations used in training
     
 8. Increasing the parameter keep_prob from (say) 0.5 to 0.6 will likely cause the following: (Check the two that apply)
 
