@@ -7,6 +7,7 @@ Lesson1, 2020
 
 Lesson2, 17/06/2021
 
+Lesson3, 22/06/2021
 ## Content
 
 `Lesson1 神经网络和深度学习`
