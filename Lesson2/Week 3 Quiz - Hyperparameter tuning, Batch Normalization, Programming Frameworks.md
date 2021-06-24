@@ -50,7 +50,7 @@
     - They can be learned using Adam, Gradient descent with momentum, or RMSprop, not just with gradient descent.
     - They set the mean and variance of the linear variable z^[l] of a given layer.
     
-    \-[] $\beta$ and $\gamma$ are hyperparameters of the algorithm, which we tune via random sampling. 
+    \-[ ] $\beta$ and $\gamma$ are hyperparameters of the algorithm, which we tune via random sampling. 
     
 9. After training a neural network with Batch Norm, at test time, to evaluate the neural network on a new example you should:
 

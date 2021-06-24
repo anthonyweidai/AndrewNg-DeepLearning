@@ -4,7 +4,7 @@
 
     \- [x] **True**
 
-    \- [] False
+    \- [ ] False
 
 2. If you had the three following models, which one would you choose?
 
@@ -16,11 +16,11 @@
 
     \- [x] Accuracy is an optimizing metric; running time and memory size are a satisficing metrics.
 
-    \- [] Accuracy is a satisficing metric; running time and memory size are an optimizing metric.
+    \- [ ] Accuracy is a satisficing metric; running time and memory size are an optimizing metric.
 
-    \- [] Accuracy, running time and memory size are all optimizing metrics because you want to do well on all three.
+    \- [ ] Accuracy, running time and memory size are all optimizing metrics because you want to do well on all three.
 
-    \- [] Accuracy, running time and memory size are all satisficing metrics because you have to do sufficiently well on all three for your system to be acceptable.
+    \- [ ] Accuracy, running time and memory size are all satisficing metrics because you have to do sufficiently well on all three for your system to be acceptable.
 
 4. Before implementing your algorithm, you need to split your data into train/dev/test sets. Which of these do you think is the best choice?
 
@@ -32,7 +32,7 @@
 
      You should not add the citizens’ data to the training set, because this will cause the training and dev/test set distributions to become different, thus hurting dev and test set performance. True/False?
 
-     \- [] True
+     \- [ ] True
 
      \- [x] False
 

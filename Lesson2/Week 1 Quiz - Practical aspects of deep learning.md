@@ -8,7 +8,7 @@
 
     - Come from the same distribution
     
-    **\- [] Be identical to each other (same (x,y) pairs)** 
+    **\- [ ] Be identical to each other (same (x,y) pairs)** 
     
     *Identical* means similar in every detail/exactly alike. Actually, dev and test set are not exactly the same, but they are from the same distribution.
     
@@ -35,7 +35,7 @@
 
     - A regularization technique (such as L2 regularization) that results in gradient descent shrinking the weights on every iteration.
     
-    \- []  The process of gradually decreasing the **learning rate** during training. 
+    \- [ ]  The process of gradually decreasing the **learning rate** during training. 
     
  6. What happens when you increase the regularization hyperparameter lambda?
 

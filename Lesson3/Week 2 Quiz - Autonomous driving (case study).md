@@ -80,9 +80,9 @@
     
 9. You can buy a specially designed windshield wiper that help wipe off some of the raindrops on the front-facing camera. Based on the table from the previous question, which of the following statements do you agree with?
 
-    -\[] 2.2% would be a reasonable estimate of the **minimum** amount this windshield wiper could improve performance.
+    \- [ ] 2.2% would be a reasonable estimate of the **minimum** amount this windshield wiper could improve performance.
 
-    -\[x] **2.2% would be a reasonable estimate of the maximum amount this windshield wiper could improve performance.**
+    \- [x] **2.2% would be a reasonable estimate of the maximum amount this windshield wiper could improve performance.**
 
     > You will probably not improve performance by more than 2.2% by solving the raindrops problem. If your dataset was infinitely big, 2.2% would be a perfect estimate of the improvement you can achieve by purchasing a specially designed windshield wiper that removes the raindrops.
 
@@ -90,9 +90,9 @@
 
     Which of the following statements do you agree with? (Check all that apply.)
 
-    -[] There is little risk of overfitting to the 1,000 pictures of fog so long as you are combining it with a much larger (>>1,000) of clean/non-foggy images. 
+    \- [ ] There is little risk of overfitting to the 1,000 pictures of fog so long as you are combining it with a much larger (>>1,000) of clean/non-foggy images. 
 
-    -[x] **So long as the synthesized fog looks realistic to the human eye, you can be confident that the synthesized data is accurately capturing the distribution of real foggy images, since human vision is very accurate for the problem you’re solving.**
+    \- [x] **So long as the synthesized fog looks realistic to the human eye, you can be confident that the synthesized data is accurately capturing the distribution of real foggy images, since human vision is very accurate for the problem you’re solving.**
 
     > If the synthesized images look realistic, then the model will just see them as if you had added useful data to identify road signs and traffic signals in a foggy weather. I will very likely help.
 
@@ -102,7 +102,7 @@
 
      >  Deep learning algorithms are quite robust to having slightly different train and dev distributions. 
 
-     -[x] **You should also correct the incorrectly labeled data in the test set, so that the dev and test sets continue to come from the same distribution**
+    \- [x] **You should also correct the incorrectly labeled data in the test set, so that the dev and test sets continue to come from the same distribution**
 
      > Because you want to make sure that your dev and test data come from the same distribution for your algorithm to make your team’s iterative development process is efficient.
 
@@ -129,9 +129,9 @@
      - (B) In this two-step approach, you would first (i) detect the traffic light in the image (if any), then (ii) determine the color of the illuminated lamp in the traffic light.
      Between these two, Approach B is more of an end-to-end approach because it has distinct steps for the input end and the output end. True/False?
 
--\[] True
+\- [ ] True
 
--\[x] False
+\- [x] False
 
 >  (A) is an end-to-end approach as it maps directly the input (x) to the output (y).
 
