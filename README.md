@@ -72,36 +72,53 @@ Lesson4, 15/08/2021
 
 # Xiaohu Blogs
 
+
 [Summary for Deep Learning Hosted by Deeplearning.ai](https://anthonydave.top/Deep Learning/Summary-for-Deep-Learning-Hosted-by-Deeplearning-ai/)
+
 
 [How dose regularization work in ML and DL? - Class review](https://anthonydave.top/Deep Learning/How-dose-regularization-work-in-ML-and-DL-Class-Review/)
 
+
 [Weight Initialization Methods - Class review](https://anthonydave.top/Deep Learning/Weight-Initialization-Methods-Class-Review/)
+
 
 [Optimization algorithms for learning systems - Class review](https://anthonydave.top/Deep Learning/Optimization-algorithms-for-learning-systems-Class-Review/)
 
+
 [Hyperparameters Tuning and Batch Normalization - Class review](https://anthonydave.top/Deep Learning/Hyperparameters-Tuning-and-Batch-Normalization-Class-Review/)
+
 
 [Carrying out error analysis - Class review](https://anthonydave.top/Deep Learning/Carrying-out-error-analysis-Class-Review/)
 
+
 [Learning from Multiple Tasks - Class Review](https://anthonydave.top/Deep Learning/Learning-from-Multiple-Tasks-Class-Review/)
+
 
 [Foundations of convolutional neural networks — Class review](https://anthonydave.top/Deep Learning/Foundations-of-convolutional-neural-networks-—-Class-review/)
 
+
 [Learning from Multiple Tasks - Class Review](https://anthonydave.top/Deep Learning/Learning-from-Multiple-Tasks-Class-Review/)
+
 
 [Case study of classic networks - Class review](https://anthonydave.top/Deep Learning/Case-study-of-classic-networks-Class-review/)
 
+
 [Inception network - Class Review](https://anthonydave.top/Deep Learning/Inception-network-Class-Review/)
+
 
 [MoblieNets - Class review](https://anthonydave.top/Deep Learning/MoblieNets-Class-review/)
 
+
 [Object detection - class review](https://anthonydave.top/Deep Learning/Obejct-detection-class-review/)
+
 
 [YOLO algorithm](https://anthonydave.top/Deep Learning/YOLO-algorithm/)
 
+
 [Semantic segmentation with U-Net - Class review](https://anthonydave.top/Deep Learning/Semantic-segmentation-with-U-Net-Class-review/)
 
+
 [Face recognition —— Class Review](https://anthonydave.top/Deep Learning/Face-recognition-——-Class-Review/)
+
 
 [Neural style transfer —— Class review](https://anthonydave.top/Deep Learning/Neural-style-transfer-——-Class-review/)
