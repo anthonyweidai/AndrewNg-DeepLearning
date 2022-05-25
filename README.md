@@ -1,4 +1,4 @@
-﻿# Andrew_Ng_DL_Assignment
+﻿﻿# Andrew_Ng_DL_Assignment
 Time goes by quickly, I also accomplished 4 courses of Deep learning specialization hosted by Deeplearning.ai. Actually, the lecture is still Andrew Ng. But at this time, I don't feel sad anymore because Andrew is smiling at the end, "*To do whatever you think is the best of what you can do of humanity*." Thanks to Deeplearning.ai, I master the basic concept of deep learning.
 
 Deeplearning.ai, [Deep learning specialization](https://www.coursera.org/specializations/deep-learning), Coursera
@@ -13,8 +13,8 @@ Lesson3, 22/06/2021
 Lesson4, 15/08/2021
 ## Content
 
-`Lesson1 神经网络和深度学习`
-  <br>　week1 没编程作业
+`Lesson1 Neural networks and deep learning`
+  <br>　week1 No homework
   <br>　week2 
   <br>　　1.Python Basics with Numpy
   <br>　　2.Logistic Regression with a Neural Network mindset
@@ -24,7 +24,7 @@ Lesson4, 15/08/2021
   <br>　　1.Building your Deep Neural Network: Step by Step
   <br>　　2.Deep Neural Network for Image Classification: Application
 
-`Lesson2 改善深层神经网络：超参数调试、正则化以及优化`
+`Lesson2 Improving deep neural networks: hyperparameter tuning, regularization and optimization`
   <br>　week1
     <br>　　1.Initialization
     <br>　　2.Regularization
@@ -34,10 +34,10 @@ Lesson4, 15/08/2021
   <br>　week3
     <br>　　1.TensorFlow Tutorial
 
-`Lesson3 结构化机器学习项目`
-  <br>　没编程作业
+`Lesson3 Structuring machine learning projects`
+  <br>No homework
 
-`Lesson4 卷积神经网络`
+`Lesson4 Convolutional neural networks`
   <br>　week1
     <br>　　1.Convolutional Neural Networks: Step by Step
     <br>　　2.Convolutional Neural Networks: Application
@@ -50,7 +50,7 @@ Lesson4, 15/08/2021
  	<br>　　1.Face Recognition for the Happy House
 	<br>　　2.Art Generation with Neural Style Transfer
 	
-`Lesson5 序列模型`
+`Lesson5 Sequence models`
   <br>　week1
     <br>　　1.Building-Rnn-Step-by-Step
     <br>　　2.Dinosaur-Island-Character-Level-Language-Model
@@ -62,62 +62,38 @@ Lesson4, 15/08/2021
 	<br>　　1.Machine-Translation
 	<br>　　2.Trigger-Word-Detection
 
-# Outline
-
-1. Neural networks and deep learning
-2. Improving deep neural networks: hyperparameter tuning, regularization and optimization
-3. Structuring machine learning projects
-4. Convolutional neural networks
-5. Sequence models
-
-# Xiaohu Blogs
-
-[Summary for Deep Learning Hosted by Deeplearning.ai](https://anthonydave.top/Deep%20Learning/Summary-for-Deep-Learning-Hosted-by-Deeplearning-ai/)
-
+# Xiaohu's Blogs
 
 [How dose regularization work in ML and DL? - Class review](https://anthonydave.top/Deep%20Learning/How-dose-regularization-work-in-ML-and-DL-Class-Review/)
 
-
 [Weight Initialization Methods - Class review](https://anthonydave.top/Deep%20Learning/Weight-Initialization-Methods-Class-Review/)
-
 
 [Optimization algorithms for learning systems - Class review](https://anthonydave.top/Deep%20Learning/Optimization-algorithms-for-learning-systems-Class-Review/)
 
-
 [Hyperparameters Tuning and Batch Normalization - Class review](https://anthonydave.top/Deep%20Learning/Hyperparameters-Tuning-and-Batch-Normalization-Class-Review/)
-
 
 [Carrying out error analysis - Class review](https://anthonydave.top/Deep%20Learning/Carrying-out-error-analysis-Class-Review/)
 
-
 [Learning from Multiple Tasks - Class Review](https://anthonydave.top/Deep%20Learning/Learning-from-Multiple-Tasks-Class-Review/)
 
-
-[Foundations of convolutional neural networks — Class review](https://anthonydave.top/Deep%20Learning/Foundations-of-convolutional-neural-networks-—-Class-review/)
-
+[Foundations of convolutional neural networks — Class review](https://anthonydave.top/Deep%20Learning/Foundations-of-convolutional-neural-networks---Class-review/)
 
 [Learning from Multiple Tasks - Class Review](https://anthonydave.top/Deep%20Learning/Learning-from-Multiple-Tasks-Class-Review/)
-
 
 [Case study of classic networks - Class review](https://anthonydave.top/Deep%20Learning/Case-study-of-classic-networks-Class-review/)
 
-
 [Inception network - Class Review](https://anthonydave.top/Deep%20Learning/Inception-network-Class-Review/)
-
 
 [MoblieNets - Class review](https://anthonydave.top/Deep%20Learning/MoblieNets-Class-review/)
 
-
 [Object detection - class review](https://anthonydave.top/Deep%20Learning/Obejct-detection-class-review/)
-
 
 [YOLO algorithm](https://anthonydave.top/Deep%20Learning/YOLO-algorithm/)
 
-
 [Semantic segmentation with U-Net - Class review](https://anthonydave.top/Deep%20Learning/Semantic-segmentation-with-U-Net-Class-review/)
 
+[Face recognition —— Class Review](https://anthonydave.top/Deep%20Learning/Face-recognition---Class-Review/)
 
-[Face recognition —— Class Review](https://anthonydave.top/Deep%20Learning/Face-recognition-——-Class-Review/)
+[Neural style transfer —— Class review](https://anthonydave.top/Deep%20Learning/Neural-style-transfer---Class-review/)
 
-
-[Neural style transfer —— Class review](https://anthonydave.top/Deep%20Learning/Neural-style-transfer-——-Class-review/)
+[Summary for Deep Learning Hosted by Deeplearning.ai](https://anthonydave.top/Deep%20Learning/Summary-for-Deep-Learning-Hosted-by-Deeplearning-ai/)
