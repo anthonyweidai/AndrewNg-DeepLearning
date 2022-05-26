@@ -1,4 +1,4 @@
-﻿﻿# Andrew_Ng_DL_Assignment
+﻿﻿﻿﻿# Andrew_Ng_DL_Assignment
 Time goes by quickly, I also accomplished 4 courses of Deep learning specialization hosted by Deeplearning.ai. Actually, the lecture is still Andrew Ng. But at this time, I don't feel sad anymore because Andrew is smiling at the end, "*To do whatever you think is the best of what you can do of humanity*." Thanks to Deeplearning.ai, I master the basic concept of deep learning.
 
 Deeplearning.ai, [Deep learning specialization](https://www.coursera.org/specializations/deep-learning), Coursera
@@ -11,6 +11,9 @@ Lesson2, 17/06/2021
 Lesson3, 22/06/2021
 
 Lesson4, 15/08/2021
+
+Lesson5, 26/05/2022
+
 ## Content
 
 `Lesson1 Neural networks and deep learning`
