@@ -1,6 +1,6 @@
 # Andrew_Ng_DL_Assignment
 
-Time goes by quickly, I also accomplished 4 courses of Deep learning specialization hosted by Deeplearning.ai. Actually, the lecture is still Andrew Ng. But at this time, I don't feel sad anymore because Andrew is smiling at the end, "*To do whatever you think is the best of what you can do of humanity*." Thanks to Deeplearning.ai, I master the basic concept of deep learning.
+Time goes by quickly, I also accomplished 4 courses of Deep learning specialization hosted by Deeplearning.ai. Actually, the lecturer is still Andrew Ng. But at this time, I don't feel sad anymore because Andrew is smiling at the end, "*To do whatever you think is the best of what you can do of humanity*." Thanks to Deeplearning.ai, I master the basic concept of deep learning.
 
 Deeplearning.ai, [Deep learning specialization](https://www.coursera.org/specializations/deep-learning), Coursera
 ## Status
